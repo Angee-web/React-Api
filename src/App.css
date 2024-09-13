@@ -1,0 +1,48 @@
+
+
+.user-list {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.user-list h1 {
+  text-align: center;
+  color: #333;
+}
+
+.user-item {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 15px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+}
+
+.user-item h2 {
+  margin: 0;
+  font-size: 1.4em;
+}
+
+.user-item p {
+  margin: 5px 0;
+  font-size: 1em;
+}
+
+.user-item a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.user-item a:hover {
+  text-decoration: underline;
+}
+
+.address, .company {
+  margin-top: 10px;
+}
+
+.address h3, .company h3 {
+  margin: 10px 0 5px;
+  font-size: 1.1em;
+}
